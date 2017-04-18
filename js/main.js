@@ -50,6 +50,8 @@ $(document).ready(function(){
         // TODO: CHALLENGE 1
         // add some more behaviors cat lady behaviors here to customize your app!
         // -----------------------------------------------------------------------------------------
+          new Behavior("heavy debates about the awesomeness of cats", 6),
+          new Behavior("claim that cats are jerks", -4),
     ];
 
     /*
